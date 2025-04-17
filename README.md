@@ -34,7 +34,7 @@ Swap Monitor Pro — это мощный инструмент для монит�
 
 1. Клонируйте репозиторий или скопируйте файл скрипта:
    ```bash
-   git clone https://github.com/yourusername/swap-monitor-pro.git
+   git clone https://github.com/Hidosi/swap-monitor-pro.git
    cd swap-monitor-pro
    ```
 
